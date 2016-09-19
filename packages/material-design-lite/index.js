@@ -24,6 +24,7 @@ console.info('Hello, MDL!!!');
 
 // Register all components
 autoInit.register('MDLCheckbox', Checkbox);
+autoInit.register('MDLRadio', Radio);
 
 // Export all components.
 export {
